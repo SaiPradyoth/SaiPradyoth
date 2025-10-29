@@ -1,7 +1,6 @@
 <!-- SaiPradyoth/SaiPradyoth README.md -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your_github_user_id?v=4" width="150" style="border-radius:50%;" alt="Sai Pradyoth Goparaju"><br>
   <h2>Hi, I'm Sai Pradyoth Goparaju</h2>
   <b>Mechanical Engineer | Product Designer | Lean Six Sigma Black Belt</b>
 </p>
